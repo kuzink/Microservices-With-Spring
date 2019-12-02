@@ -15,7 +15,7 @@ words: NotApplicable
 ---
 spring:
   profiles: subject
-words: I,You,He,She,It
+words: I
   
 ---
 spring:
