@@ -15,7 +15,7 @@ words: NotApplicable
 ---
 spring:
   profiles: subject
-words: Jim
+words: Tom
   
 ---
 spring:
