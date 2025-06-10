@@ -9,7 +9,7 @@ customProp: "333"
 
 logging:
   level:
-    root: info
+    root: error
 
 ---
 spring:
