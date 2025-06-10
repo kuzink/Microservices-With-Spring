@@ -5,6 +5,12 @@ eureka:
     serviceUrl:
       defaultZone: http://localhost:8010/eureka/
 
+customProp: "222"
+
+logging:
+  level:
+    root: info
+
 ---
 spring:
   profiles: sentence
